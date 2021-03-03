@@ -13,7 +13,7 @@ The object of Sudoku is to fill out each puzzle with numbers1-9 in a way that we
 ![Flowchart of proposed method.](figure.PNG)
 
 ### DATASET
-We consider as a data source https://www.kaggle.com/bryanpark/sudoku
+We consider as a data source [Sudoku Dataset](https://www.kaggle.com/bryanpark/sudoku).
 
 ### METHODS
 
